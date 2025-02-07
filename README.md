@@ -1,1 +1,3 @@
-# firs_repository
+# firs_repositor
+це мій перший репозиторій.
+а це мої перші зміни.
